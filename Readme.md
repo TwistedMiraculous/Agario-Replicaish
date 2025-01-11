@@ -27,7 +27,7 @@ Download or clone this repository to your local machine.
 
 Run the game by executing the following command in the terminal:
 
-python agar_io_clone.py
+python agar.py
 
 Controls
 
